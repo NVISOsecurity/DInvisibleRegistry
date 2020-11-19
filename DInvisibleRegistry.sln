@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DInvisibleRegistry", "DInvisibleRegistry.csproj", "{31D576FB-9FB9-455E-AB02-C78981634C65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31D576FB-9FB9-455E-AB02-C78981634C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D576FB-9FB9-455E-AB02-C78981634C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D576FB-9FB9-455E-AB02-C78981634C65}.Debug|x64.ActiveCfg = Debug|x64
+		{31D576FB-9FB9-455E-AB02-C78981634C65}.Debug|x64.Build.0 = Debug|x64
+		{31D576FB-9FB9-455E-AB02-C78981634C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D576FB-9FB9-455E-AB02-C78981634C65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D576FB-9FB9-455E-AB02-C78981634C65}.Release|x64.ActiveCfg = Release|x64
+		{31D576FB-9FB9-455E-AB02-C78981634C65}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9D195B7-DBE8-487B-93CD-2C388D16D13A}
+	EndGlobalSection
+EndGlobal
