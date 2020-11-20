@@ -1,3 +1,8 @@
+Details on why this poc was released can be found on the following blogpost: 
+https://blog.nviso.eu/2020/11/20/dynamic-invocation-in-net-to-bypass-hooks/
+
+This PoC is just to showcase several cool functions of the Dynamic invocation library created as part of the Sharpsploit suite.
+
 ``` 
 $$$$$$$\  $$\                     $$\           $$\ $$\       $$\           $$$$$$$\                      $$\             $$\
 $$  __$$\ \__|                    \__|          \__|$$ |      $$ |          $$  __$$\                     \__|            $$ |
